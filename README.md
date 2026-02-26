@@ -1,7 +1,11 @@
-# About Me
+# Hi, I'm Ioannis, an AI & Machine Learning Engineer
 
-I’m passionate about building and training models that solve real-world problems, working across the full ML lifecycle from data processing and experimentation to model optimization and prompt engineering.
-With a solid foundation in algorithms and software engineering, I have hands-on experience in Python, Java, SQL, and modern web technologies. I enjoy combining full-stack development skills with AI-driven systems to create intelligent, data-powered applications.
+## Current Focus
+- Model training & fine-tuning
+- LLM applications
+- Data pipelines
+- MLOps basics
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-roumeliotis-ath/)
